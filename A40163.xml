@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A distinction between the phanatick spirit and the spirit of God and the fruits of each spirit as followeth ...</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40163</idno>
+            <idno type="STC">Wing F1796</idno>
+            <idno type="STC">ESTC R30472</idno>
+            <idno type="EEBO-CITATION">11327529</idno>
+            <idno type="OCLC">ocm 11327529</idno>
+            <idno type="VID">47478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A distinction between the phanatick spirit and the spirit of God and the fruits of each spirit as followeth ...</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: G.F.</note>
+                  <note>Reproduction of original in the Bevan-Naish Collection.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:47478:1"/>
+            <head>
+               <hi>A</hi> Diſtinction <hi>between the</hi> Phanatick Spirit, <hi>and the</hi> Spirit <hi>of</hi> God; <hi>and the Fruits of each Spirit AS FOLLOWETH.</hi> The Fruits of the <hi>Phanatick</hi> Spirit is, <hi>Rage, Fury, Madneſs, Fooliſhneſs:</hi> And the Fruits of the Spirit of God is, <hi>Love, Joy, Peace, Gentleneſs, Righte<g ref="char:EOLhyphen"/>ouſneſs, true Judgement</hi>; and gives the true Diſtinction, and the true Underſtanding. And an Antidote, which is to ſtop and lay the Poyſon, which hath been received and drunk in by People.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>ARe not the <hi>Phanatick</hi> people ſuch, as from the Spirit of God be dege<g ref="char:EOLhyphen"/>nerated, and ſo blaſted, and ſuch, as be full of fury, that worſhips and falls under bad Spirits, and lives in the invented Worſhips, and in their imaginations; and ſo with it <hi>Phanatick,</hi> and in it full of fury, mad, rage, blind zeal, that perſecute, and murder, and kill, and baniſh all that ſtand in his way, and falls not to that Spirit; a<g ref="char:EOLhyphen"/>gainſt ſuch his fury goes, &amp; madneſs, who is like a blaſted withered Tree, that the life is gone out of; which hath not the ſame ſpirit that the Apoſtles had, &amp; Chriſt; which thouſands of Chriſtians, Profeſſors and Teachers, it is the Teſtimony that they bear, and have born to people in this age and generation, That they have not the ſame Spirit and Power that the Prophets, Chriſt and the Apoſtles had; being full of rage, fury and madneſs, that would kill and ſlay, and perſecute all before them, that follow not what their mad, blind, furious, blaſted knowledge and wiſdom hath ſet up, which the ſpirit of God doth blaſt, and all their Reli<g ref="char:EOLhyphen"/>gion and Worſhip. And ſo, are not all theſe <hi>Phanatick</hi> that are ſo full of Fury &amp; Rage, that do confeſs they have not the ſame Spirit that the Prophets and Apo<g ref="char:EOLhyphen"/>ſtles had? And are not all they <hi>Phanatick</hi> that perſecute with fury and rage a<g ref="char:EOLhyphen"/>bout Church, Worſhip and Miniſtry, ſeeing the Apoſtle ſaid, <hi>They wreſtled not with fleſh and blood</hi>; and <hi>their weapons were not carnal but ſpiritual</hi>? Are not all theſe carnal weaponed Profeſſors, Teachers, Paſtors, Elders, Diſciples, <hi>Fanatick,</hi> with their carnal Weapons, which wreſtle with fleſh and blood with carnal Weapons, and have not had the ſpiritual, which the Apoſtles had? And are not they again <hi>Fa<g ref="char:EOLhyphen"/>natick,</hi> that in their fury and rage, have perſecuted thouſands becauſe they could not put into their mouths, and give them filthy lucre, priſoning ſuch perſecuting ſuch, which they do no work for, in their mad fury, and fooliſh rage? Again, are not they <hi>Fanatick,</hi> that be not in the ſpirit the Prophets and Apoſtles were in, and do not give heed to the Spirit of Chriſt which ſhould ſave mens lives, nor give heed to the Apoſtles Spirit, the Spirit of God, which had ſpiritual Weapons; but give heed to ſeducing ſpirits, the ſpirit of the Devil, who was murderer from the beginning; and ſo in fury, rage, with carnal Weapons, <hi>Cains</hi> Clubs, wicked Fiſts, unholy hands, and the <hi>Jews</hi> whips, wil perſecute, priſon, and baniſh about Church, Worſhip and Religion? Is not this contrary to the Apoſtles Spirit, and Chriſts Spirit? And is not this the <hi>Fanatick</hi> ſpirit? And will not the Spirit of God blaſt this? And are not all they that are gone out of the Spirit of the Apo<g ref="char:EOLhyphen"/>ſtles, gone out into Fancies, Whimſies, and fooliſhneſs; and there he rages in his fooliſhneſs which he hath invented, out of the Spirit in which God is worſhipped, in which the ſpiritual Weapons are found. All them that dwell in the Spirit of God, are not <hi>Fanatick,</hi> but have the ſpiritual Wiſdom and Underſtanding; which Spirit of God was before the ſpirit of <hi>Fanatick</hi> was, fooliſh, mad rage, fancy, fu<g ref="char:EOLhyphen"/>ry, which the Spirit of God is out of, and blaſts it: And who are they that rage in the Temples, rage in the furiouſneſs, fooliſhneſs? And what Spirit do they fall down to, and worſhip? And when had they a command of God to do ſo, to perſecute, or to ſtir up any people to furiouſneſs, which ſhews the folly of that Wiſdom, theſe that bears this Teſtimony to the World, that they have not the ſame ſpirit and power that the Prophets and Apoſtles had, yet they be teaching the Prophets and Apoſtles words, and be maintained as Teachers of the Spirit, and confeſs they have not the ſame ſpirit, but are full of fury, fooliſhneſs, and rage, perſecution and madneſs againſt ſuch as are in the ſame ſpirit and power that the Prophets, Chriſt and the Apoſtles were in; theſe be the <hi>Fanaticks</hi>: But the man of God is moek, (and not furious &amp; fooliſh, which is <hi>Fanatick</hi>) and his body is the temple of God: All the <hi>Fanaticks</hi> in the Pulpits, their Temples, their rage, and their fury appears, doth it not? Was it not the Prieſts that raged in the in<g ref="char:EOLhyphen"/>vented temples, which fell before ſuch like ſpirits to raging? And are not <hi>Jews, Gentiles,</hi> and <hi>Apoſtate Cristians</hi> raging in the temples? the <hi>Jews</hi> raging in that which was commanded, and the <hi>Apoſtate Chriſtians</hi> in that which they have inven<g ref="char:EOLhyphen"/>ted? And are not they <hi>Fanatick</hi> that will ſet up <hi>Temples, Tythes, Prieſts,</hi> which Chriſt came to end; and invent others which they have no command from God for? And is not a furious, fooliſh, mad, perſecuting ſpirit, <hi>Fanatick,</hi> that would have honour before his humility? And doth not the furious, fooliſh ſpirit, worſhip the furious, fooliſh, devilliſh ſpirit, out of truth? Or doth any fooliſh, furi<g ref="char:EOLhyphen"/>ous, which is a blaſted ſpirit, in that ſpirit, worſhip God in the ſpirit? Are not all in the <hi>Phanatick</hi> ſpirit that are not in the ſame power the Prophets and Apoſtles were in? Can they live out of a raging ſpirit, fooliſh ſpirit, furious ſpirit, <hi>Phana<g ref="char:EOLhyphen"/>tick,</hi> heady, mad zeal, that be out of the ſpirit the Prophets, Chriſt, and the A<g ref="char:EOLhyphen"/>poſtles were in? Are they <hi>Phanatick</hi> ſpirits that are in the ſame ſpirit that the Pro<g ref="char:EOLhyphen"/>phets, Chriſt and the Apoſtles were in? Wil not they that be out of it, call them ſo? And was not <hi>Saul</hi> in the <hi>Phanatick</hi> ſpirit when he run up and down with his Pacquet of Letters againſt the Chriſtians that ſeparated from the <hi>Jews</hi> Temples? And are not all the Prieſts and Profeſſors in <hi>Chriſtendom,</hi> the furious, fooliſh, mad raging <hi>Phanatick</hi> ſpirits, againſt thoſe that ſeparate from their <hi>Diana,</hi> who run with their Pacquets of Letters from Court to Court, and from Seſſion to Seſſion, to Parliaments and to Kings, to have people priſoned, whipt, baniſhed, put to death about Church, Worſhip and Religion, and Maintenance, which have not the ſpiritual Weapons? Whether the people of God (in ſcorn called <hi>Quakers</hi>) the elect before the World began, who are come into the meekneſs and patience (before <hi>Phanatick</hi> was) which wreſtles not with fleſh and blood, and carnal wea<g ref="char:EOLhyphen"/>pons, who lift up their hands againſt no man, whether theſe be <hi>Phanaticks</hi>? or thoſe that be full of rage, madneſs and fury, that perſecute and priſon ſo many for maintenance, for whom they do no work? Whether this be not the <hi>Phanatick</hi> ſpi<g ref="char:EOLhyphen"/>rit that works in the <hi>Apoſtate Chriſtians,</hi> with their Racks, and priſons, and Baniſh<g ref="char:EOLhyphen"/>ments, <hi>Judas</hi> company, with ſwords and ſtaves againſt Chriſt; and the <hi>Jews</hi> com<g ref="char:EOLhyphen"/>pany, with their ſtones againſt <hi>Stephen,</hi> that denied the Temple, and witneſſed the ſubſtance? Is this the Spirit of Chriſt, the Prophets and Apoſtles, or the <hi>Phana<g ref="char:EOLhyphen"/>tick</hi> ſpirit; judge your ſelves, who are the <hi>Phanatick</hi> ſpirits, &amp; where they be? Is not the <hi>Phanatick</hi> ſpirits furious ſpirit, a mad ſpirit, a fooliſh ſpirit, a blaſted ſpirit? Are not they that be inſpired with this, inſpired with a <hi>Phanatick</hi> ſpirit, who are madly, &amp; ragingly carryed on, not meekly, nor in the faith that works by love, that over<g ref="char:EOLhyphen"/>comes the fury, mad and fooliſh? And are not all they that have not the ſame ſpirit that the Prophets and Apoſtles had, (which had the ſpiritual Weapons) in<g ref="char:EOLhyphen"/>ſpired with a Prophetical fury, mad, fooliſh, blaſted ſpirit, who madly, ragingly run on with their carnal weapons againſt them that have the ſpiritual weapons? And are they which cry down deceit and wickedneſs in Rulers, Magiſtrates, Pro<g ref="char:EOLhyphen"/>feſſors, Prieſts and people, which was the work of the Prophets and holy men of God, who had the Spirit of God, are they <hi>Phanaticks</hi> that cry againſt ſuch things now, which be in the ſame ſpirit that the Prophets and Apoſtles were in?</p>
+            <p>Hath not the furious, fooliſh, Ragingly, madly run on, the <hi>Phanatick</hi> ſpirit a<g ref="char:EOLhyphen"/>mongſt <hi>Proteſtants</hi> and <hi>Papists</hi> ſince the Apoſtles dayes, ſince they loſt the Apoſtles ſpirit, that meekneſs, patience, and temperance and love is loſt amongſt them?</p>
+            <p>But the fruits of the <hi>Phanatick</hi> ſpirit, which is <hi>Fury, Rage, Perſecution, mad<g ref="char:EOLhyphen"/>neſſe,</hi> and <hi>Fooliſhneſſe,</hi> is found amongſt them, and may be gathered, ſo that it is not the people called <hi>Quakers</hi> that are the <hi>Phanaticks,</hi> but the foo<g ref="char:EOLhyphen"/>liſh mad furious Prieſts and profeſſors, that have not the ſame Spirit that the Prophets and Apoſtles had. Are not they the <hi>Fanatick</hi> ſpirits that holds up the corruptions in Magiſtrates, Teachers, Prieſts, and Profeſſors; and ſuch practices, that Chriſt, and the Prophets, and the Apoſtles cried againſt? And are not all they the <hi>Fanatick</hi> ſpirits, that denie the order of the true Church; which is, <hi>If any thing be revealed to another that ſits by, let the firſt hold his peace, that all may learn, and be comforted; For the Spirits of the Prophets are ſubject to the Prophets</hi>; and are not they the <hi>Fanatick</hi> ſpirits that denies this Order? or, are they the <hi>Fanatick</hi> ſpirits that practice this order? Or, are they the <hi>Fanatick</hi> ſpirits whoſe weapons are ſpiritual, not carnal, and wreſtles with the powers of dark<g ref="char:EOLhyphen"/>neſs, and the ſpiritual wickedneſſes; and not with fleſh and blood, and the crea<g ref="char:EOLhyphen"/>tures, about the Church, Worſhip, and Religion, Miniſtry and Maintenance? Are not they the <hi>Fanatick</hi> ſpirits that wreſtles with fleſh and blood with carnal wea<g ref="char:EOLhyphen"/>pons, about the Church, Worſhip, and Religion, Miniſtry and Maintenance? Can any wreſtle with his carnal weapons about Religion, Church, Worſhip, and Miniſtry, but he muſt be in the rage and fury, fooliſhneſs, and a <hi>Fanatick</hi> blaſted ſpirit, which be out of that Spirit that has the ſpiritual weapons? Was there ever any ſince the daies of the Apoſtles, that did perſecute about Church, worſhip, Miniſtry, and Religion, but they were in the <hi>Fanatick</hi> ſpirit, which is fury, mad, rage, fooliſhneſs, which is judged and blaſted with the Spirit of God? And are not all they that quenches the Spirit, that checks and reproves them for ſin, that they have done, and do not turn from the ſin, Do not they riſe up in the fooliſh, furious, mad-raging-<hi>Fanatick</hi> ſpirit, which is to be blaſted, that quen<g ref="char:EOLhyphen"/>ches the Spirit of God in themſelves, and vex it, and grieves it, in which they ſhould worſhip God, and pray, and ſing, and be ſober? Are not all they that meddle with Religion, Church, worſhip, Miniſtry and Maintenance, with carnal weapons, the <hi>Phanatick</hi> ſpirits, ſeeing the Apoſtle ſaid their weapons were ſpiritual, not carnal, with which they medled with the Church, Miniſtry and worſhip, who preached down the <hi>Jews,</hi> and the carnal weapons, and their types, and figures, and ſhadows, and prieſthood, and Law, and firſt Covenant, and Temple, which was held up by them with their carnal weapons; they who were Miniſters of the Spi<g ref="char:EOLhyphen"/>rit, with ſpiritual weapons, wreſtled with the <hi>Jews</hi> that had carnal weapons, and the things aforementioned? Are not all the Chriſtians that wreſtles with carnal weapons about the Church, worſhip, and Religion, Miniſtry and maintenance, a<g ref="char:EOLhyphen"/>poſtatized from the Apoſtles, whoſe weapons were ſpiritual; and fallen into the <hi>Fanatick,</hi> furious, mad ragious, fooliſh, blaſted ſpirit, with weapons that be car<g ref="char:EOLhyphen"/>nal, not ſpiritual; are not theſe things ſo, yea or nay?</p>
+            <p>It is a dangerous thing, to publiſh that thing to the Nation, that people cannot underſtand what it is, for that may let up <hi>Fanatick</hi> ſpirits that do not underſtand; For doth a fooliſh, ragious, mad ſpirit underſtand? and who is more confident then a fooliſh, ragious, mad ſpirit, wilful, wicked in perſecution and blind zeal? and who doth he hate more then them that be in the ſpirit and power of God that comprehends and does underſtand the <hi>Fanatick</hi> and his fruit, which our days every day more and more ſhall ſhew it, which comes from thoſe trees that bears not the good fruit, which tree and fruit, againſt it the arrows of the Lord do ſhoot, and againſt it his hand is turned, that is into the fire to be caſt and burned.</p>
+            <p>
+               <hi>Is not all drunken ſpirits, gluttonous ſpirits, ſwearing ſpirits, curſing ſpirits, adulterous ſpi<g ref="char:EOLhyphen"/>rits, covetous ſpirits, proud ambitious ſpirits, high-minded, puft up with pride and ambition; full of fury, rage, and a perſecuting ſpirit, like a diſtracted man, whoſe countenance changed like</hi> Cain, <hi>and viſage with fury like</hi> Nebuchadnezar, <hi>and perſecuting as mad as</hi> Saul, <hi>and as mad as ever the Apoſtate Chriſtians have been ſince the Apoſtles daies? And is not this a</hi> Fanatick <hi>ſpirit, and the fruits of the</hi> fanatick <hi>ſpirit, mad, wrath, diſtracted, like</hi> Herod, Cain, <hi>falſe-prophet, Divel, beast, Antichriſt, falſe Chriſt, Wolfe, falſe-Church, which hath drunke the blood of the Saints, out of truth and meekneſs. And have not we taſted and handled, and ſeen and known this poiſonous</hi> Fanatick <hi>ſpirit?</hi>
+            </p>
+            <p>
+               <hi>Was not</hi> Saul <hi>in a</hi> Fanatick <hi>ſpirit, when he was made, and perſecuted? Was he in a</hi> Fanatick <hi>ſpirit when he confeſſed this, and denied carnal weapons, but confeſſed ſpiritual? Which of theſe ſpirits is</hi> Fanatick, <hi>and which of theſe ſpirits is now Chriſtendom found in? In the ſpirit of</hi> Saul <hi>a mad man, a perſecuter, with his packet of Letters. Or in the ſpirit that wreſtles not with fleſh and blood, and wreſtles not with carnal weapons, but with ſpiritual? Wheather this be the</hi> Fanatick ſpirit, <hi>yea, or nay?</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the Signe of the <hi>Black-ſpread-Eagle</hi> and <hi>Wind-Mill,</hi> in <hi>Martins Le Grand.</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
